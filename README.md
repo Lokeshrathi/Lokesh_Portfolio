@@ -1,5 +1,5 @@
 ## Lokesh_Portfolio
-### [Project 1: Investment Study Data Anlysis](https://github.com/Lokeshrathi/Investment-Study-) Project Overview:
+### [Project 1: Investment Study Data Analysis](https://github.com/Lokeshrathi/Investment-Study-) Project Overview:
 
 1. This project focuses on gaining insights into business and understanding the driving factors behind loan defaulters and how the loans are issued.
 2. Perfomred Feature Exngineering to derieve insights on the data and used Exploratory Data Analysis.
