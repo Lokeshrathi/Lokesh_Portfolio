@@ -7,6 +7,7 @@
 3. This Analysis report shows Online Loan study, where multiple derivations based on Return of Investment,Loan Defaulted, Nu mber of loans issued based on employment, state, loan_puprose and other metrics have been depicted.
 4. Feature Engineetring to extarct variable data columns for analysis on loan defaulters.
 5. **Univariate, Bivariate Analysis**for Business understanding using Visualisation tools such as *Secborn*
+(https://github.com/Lokeshrathi/Lokesh_Portfolio/blob/master/images/download.png)
 
 
 ## [Project 2: Bangalore House Rate Prediction](https://github.com/Lokeshrathi/Bangalore-house-s-rate) Project Overview:
