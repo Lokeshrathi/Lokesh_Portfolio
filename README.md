@@ -8,7 +8,7 @@
 4. Feature Engineetring to extarct variable data columns for analysis on loan defaulters.
 5. **Univariate, Bivariate Analysis**for Business understanding using Visualisation tools such as *Secborn*
 ![](https://github.com/Lokeshrathi/Lokesh_Portfolio/blob/master/images/download.png)
-![](https://github.com/Lokeshrathi/Lokesh_Portfolio/blob/master/images/download%20(1).png)
+![](https://github.com/Lokeshrathi/Lokesh_Portfolio/blob/master/images/download%20(2).png)
 
 
 ## [Project 2: Bangalore House Rate Prediction](https://github.com/Lokeshrathi/Bangalore-house-s-rate) Project Overview:
@@ -17,4 +17,5 @@
 2. Removing Outliers using *Mean* and *Standard Deviation* for better understanding of the data.
 3. Performed One Hot Encoding to train and test the Linear Regression model to arrive at a **r^2 value of 0.86.** for the prediction of house price.
 4. Local deployment using **Flask**.
+![](https://github.com/Lokeshrathi/Lokesh_Portfolio/blob/master/images/download%20(3).png)
  
